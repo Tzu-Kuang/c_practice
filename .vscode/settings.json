@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "c:\\MinGW\\bin\\mingw-get.exe",
+    "cmake.configureOnOpen": false,
+    "git.ignoreLimitWarning": true
+}
