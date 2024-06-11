@@ -7,7 +7,7 @@ Finally, put these file names to "Filenemes.txt" to the same directory*/
 
 /*For open and read the specific directory*/
 char path[520];
-DIR * file;
+DIR* file;
 struct dirent* names;
 char ch;
 int i = 0;
